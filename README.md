@@ -1,6 +1,6 @@
-# As-salamualykum Orahamatullah, I am Md My Zihad
-## Web Developer
-![Web Developer]![Black and Gold Minimalist Happy New Year Facebook Fundraiser Cover Photo](https://user-images.githubusercontent.com/123291403/213930054-f5da16b0-cfdb-4968-a479-d241b6ef80ef.png)
+# As-salamualykum Orahamatullah, I am Md My Zihad.
+## Web Design & Developer.
+[Black and Gold Minimalist Happy New Year Facebook Fundraiser Cover Photo](https://user-images.githubusercontent.com/123291403/213930054-f5da16b0-cfdb-4968-a479-d241b6ef80ef.png)
 
 
 My Name is Md My Zihad. I am a CSE Student. Now i am conitnue my study in Mymensingh Polytechnic Institute in Computer Science & Technology. Now I am Learning HTML,CSS,BOOTSTRAP & Python,PHP and many other Programming Language. 
