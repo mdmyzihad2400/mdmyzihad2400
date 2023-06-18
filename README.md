@@ -1,7 +1,7 @@
 # As-salamualykum Orahamatullah, I am Md My Zihad.
 ## Web Designer & Developer.
 
-![I am Web Designer & Developer]![zihadgithub](https://github.com/mdmyzihad2400/mdmyzihad2400/assets/123291403/c5214bc1-b5d6-49b5-bde1-86d3cc36ab20)
+![zihadgithub](https://github.com/mdmyzihad2400/mdmyzihad2400/assets/123291403/c5214bc1-b5d6-49b5-bde1-86d3cc36ab20)
 
 My Name is Md My Zihad. I am a CSE Student. Now i am conitnue my study in Mymensingh Polytechnic Institute in Computer Science & Technology. Now I am Learning HTML,CSS,BOOTSTRAP & Python,PHP and many other Programming Language. 
 
